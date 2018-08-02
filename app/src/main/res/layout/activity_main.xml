@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.chen.gesture.VideoGestureRelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ly_VG"
+    android:background="#0b0b0b"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.example.chen.gesture.ShowChangeLayout
+        android:layout_width="100dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/scl"
+        android:layout_height="100dp">
+    </com.example.chen.gesture.ShowChangeLayout>
+
+
+</com.example.chen.gesture.VideoGestureRelativeLayout>
+
